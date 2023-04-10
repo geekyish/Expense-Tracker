@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family:'Poppins', sans-serif;
+  /*background: url(./assets/images/bg-image.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;*/
+  background-color: rgb(96, 91, 91);
+  color: black;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
